@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.Web", "WebApplicationDemo\moboer.Web.csproj", "{804031FF-2F39-4379-82CE-53E3E53BC071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.BLL", "moboer.BLL\moboer.BLL.csproj", "{035029E3-E92B-4F42-BBB3-3F7576D7133E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.Common", "moboer.Common\moboer.Common.csproj", "{9DC610E8-4E4D-4149-BCEE-8F30357FE4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.DAL", "moboer.DAL\moboer.DAL.csproj", "{9BB587A9-4784-46D4-94F8-EC87BDF70ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.IBLL", "moboer.IBLL\moboer.IBLL.csproj", "{96F20430-9BA8-4E9B-8957-6C168112E5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.IDAL", "moboer.IDAL\moboer.IDAL.csproj", "{6D865858-DB56-48AD-8954-CAA97AEC3366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moboer.Models", "moboer.Models\moboer.Models.csproj", "{489D4D3D-8AFD-48A3-96B4-97931FE7BE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804031FF-2F39-4379-82CE-53E3E53BC071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804031FF-2F39-4379-82CE-53E3E53BC071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804031FF-2F39-4379-82CE-53E3E53BC071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804031FF-2F39-4379-82CE-53E3E53BC071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035029E3-E92B-4F42-BBB3-3F7576D7133E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035029E3-E92B-4F42-BBB3-3F7576D7133E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035029E3-E92B-4F42-BBB3-3F7576D7133E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035029E3-E92B-4F42-BBB3-3F7576D7133E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC610E8-4E4D-4149-BCEE-8F30357FE4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC610E8-4E4D-4149-BCEE-8F30357FE4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC610E8-4E4D-4149-BCEE-8F30357FE4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC610E8-4E4D-4149-BCEE-8F30357FE4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB587A9-4784-46D4-94F8-EC87BDF70ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB587A9-4784-46D4-94F8-EC87BDF70ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB587A9-4784-46D4-94F8-EC87BDF70ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB587A9-4784-46D4-94F8-EC87BDF70ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F20430-9BA8-4E9B-8957-6C168112E5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F20430-9BA8-4E9B-8957-6C168112E5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F20430-9BA8-4E9B-8957-6C168112E5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F20430-9BA8-4E9B-8957-6C168112E5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D865858-DB56-48AD-8954-CAA97AEC3366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D865858-DB56-48AD-8954-CAA97AEC3366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D865858-DB56-48AD-8954-CAA97AEC3366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D865858-DB56-48AD-8954-CAA97AEC3366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489D4D3D-8AFD-48A3-96B4-97931FE7BE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489D4D3D-8AFD-48A3-96B4-97931FE7BE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489D4D3D-8AFD-48A3-96B4-97931FE7BE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489D4D3D-8AFD-48A3-96B4-97931FE7BE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
